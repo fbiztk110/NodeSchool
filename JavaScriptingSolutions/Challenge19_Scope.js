@@ -1,4 +1,7 @@
+// Challenge 19 Scope
+
 var a = 1, b = 2, c = 3;
+
 (function firstFunction() {
     var b = 5, c = 6;
     (function secondFunction() {
