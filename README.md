@@ -24,3 +24,6 @@ Check with [learnyounode](https://nodeschool.io/#workshopper-list) from NodeScho
 `npm install -g learnyounode`
 
 Solutions are provided at [LearnyounodeSolutions](https://github.com/fbiztk110/NodeSchool/tree/master/LearnyounodeSolutions)
+
+Simply run
+`learnyounode verify [Chanllegexx_xx].js` to see the results
