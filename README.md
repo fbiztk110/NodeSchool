@@ -8,9 +8,9 @@ Learn the basics of JavaScript. No previous programming experience required.
 Started with the core [javascripting](https://nodeschool.io/#workshopper-list) from NodeSchool.
 
 
-`npm install -g javascripting`
+run `npm install -g javascripting` on your terminal to install the challenges
 
-`javascripting`
+run `javascripting` to see the challenges
 
 Solutions are provided at [JavaScriptingSolutions](https://github.com/fbiztk110/NodeSchool/tree/master/JavaScriptingSolutions)
 
@@ -21,7 +21,9 @@ Simply run
 Learn the basics of node: asynchronous i/o, http. 
 Check with [learnyounode](https://nodeschool.io/#workshopper-list) from NodeSchool.
 
-`npm install -g learnyounode`
+run `npm install -g learnyounode` on your terminal to install the challenges
+
+run `learnyounode` to see the challenges
 
 Solutions are provided at [LearnyounodeSolutions](https://github.com/fbiztk110/NodeSchool/tree/master/LearnyounodeSolutions)
 
