@@ -29,3 +29,16 @@ Solutions are provided at [LearnyounodeSolutions](https://github.com/fbiztk110/N
 
 Simply run
 `learnyounode verify [Chanllegexx_xx].js` to see the results
+
+# Learnyouhtml Challenges
+Learn how to create your first web page.
+Check with [learnyouhtml](https://nodeschool.io/#workshopper-list) from NodeSchool.
+
+run `npm install -g learnyouhtml` on you terimal to install the challenges
+
+run `learnyouhtml` to see the challenges
+
+Solutions are provided at [LearnyouhtmlSolutions](https://github.com/fbiztk110/NodeSchool/tree/master/LearnyouhtmlSolutions)
+
+Simply run
+`learnyouhtml verify [Chanllegexx_xx].js` to see the results
